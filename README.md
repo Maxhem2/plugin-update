@@ -89,4 +89,4 @@ _See code: [src/commands/update.ts](https://github.com/oclif/plugin-update/blob/
 
 # Contributing
 
-See [contributing guide](./CONRTIBUTING.md)
+See [contributing guide](./CONTRIBUTING.md)
